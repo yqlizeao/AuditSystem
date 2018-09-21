@@ -1,0 +1,54 @@
+E:\VS2013\AuditSystem\AuditSystem\bin\Debug\AuditSystem.exe.config
+E:\VS2013\AuditSystem\AuditSystem\bin\Debug\AuditSystem.exe
+E:\VS2013\AuditSystem\AuditSystem\bin\Debug\AuditSystem.pdb
+E:\VS2013\AuditSystem\AuditSystem\obj\Debug\AuditSystem.MainForm.resources
+E:\VS2013\AuditSystem\AuditSystem\obj\Debug\AuditSystem.Form2.resources
+E:\VS2013\AuditSystem\AuditSystem\obj\Debug\AuditSystem.Properties.Resources.resources
+E:\VS2013\AuditSystem\AuditSystem\obj\Debug\AuditSystem.csproj.GenerateResource.Cache
+E:\VS2013\AuditSystem\AuditSystem\obj\Debug\AuditSystem.exe
+E:\VS2013\AuditSystem\AuditSystem\obj\Debug\AuditSystem.pdb
+E:\VS2013\AuditSystem\AuditSystem\obj\Debug\AuditSystem.csprojResolveAssemblyReference.cache
+E:\VS2013\AuditSystem tubiao 2ban\AuditSystem\bin\Debug\AuditSystem.exe.config
+E:\VS2013\AuditSystem tubiao 2ban\AuditSystem\obj\Debug\AuditSystem.exe
+E:\VS2013\AuditSystem tubiao 2ban\AuditSystem\obj\Debug\AuditSystem.pdb
+E:\VS2013\AuditSystem tubiao 2ban\AuditSystem\bin\Debug\AuditSystem.exe
+E:\VS2013\AuditSystem tubiao 2ban\AuditSystem\bin\Debug\AuditSystem.pdb
+E:\VS2013\AuditSystem tubiao 2ban\AuditSystem\obj\Debug\AuditSystem.MainForm.resources
+E:\VS2013\AuditSystem tubiao 2ban\AuditSystem\obj\Debug\AuditSystem.Properties.Resources.resources
+E:\VS2013\AuditSystem tubiao 2ban\AuditSystem\obj\Debug\AuditSystem.csproj.GenerateResource.Cache
+E:\VS2013\AuditSystem tubiao 2ban\AuditSystem\obj\Debug\AuditSystem.csprojResolveAssemblyReference.cache
+E:\VS2013\AuditSystem db\AuditSystem\bin\Debug\AuditSystem.exe.config
+E:\VS2013\AuditSystem db\AuditSystem\obj\Debug\AuditSystem.exe
+E:\VS2013\AuditSystem db\AuditSystem\obj\Debug\AuditSystem.pdb
+E:\VS2013\AuditSystem db\AuditSystem\bin\Debug\AuditSystem.exe
+E:\VS2013\AuditSystem db\AuditSystem\bin\Debug\AuditSystem.pdb
+E:\VS2013\AuditSystem db\AuditSystem\obj\Debug\AuditSystem.MainForm.resources
+E:\VS2013\AuditSystem db\AuditSystem\obj\Debug\AuditSystem.Properties.Resources.resources
+E:\VS2013\AuditSystem db\AuditSystem\obj\Debug\AuditSystem.csproj.GenerateResource.Cache
+E:\VS2013\copy\AuditSystem db complete\AuditSystem\bin\Debug\AuditSystem.exe.config
+E:\VS2013\copy\AuditSystem db complete\AuditSystem\obj\Debug\AuditSystem.exe
+E:\VS2013\copy\AuditSystem db complete\AuditSystem\obj\Debug\AuditSystem.pdb
+E:\VS2013\copy\AuditSystem db complete\AuditSystem\bin\Debug\AuditSystem.exe
+E:\VS2013\copy\AuditSystem db complete\AuditSystem\bin\Debug\AuditSystem.pdb
+E:\VS2013\copy\AuditSystem db complete\AuditSystem\obj\Debug\AuditSystem.MainForm.resources
+E:\VS2013\copy\AuditSystem db complete\AuditSystem\obj\Debug\AuditSystem.Properties.Resources.resources
+E:\VS2013\copy\AuditSystem db complete\AuditSystem\obj\Debug\AuditSystem.csproj.GenerateResource.Cache
+E:\VS2013\copy\AuditSystem db complete\AuditSystem\obj\Debug\AuditSystem.csprojResolveAssemblyReference.cache
+E:\VS2013\AuditSystem db complete\AuditSystem\bin\Debug\AuditSystem.exe.config
+E:\VS2013\AuditSystem db complete\AuditSystem\bin\Debug\AuditSystem.exe
+E:\VS2013\AuditSystem db complete\AuditSystem\bin\Debug\AuditSystem.pdb
+E:\VS2013\AuditSystem db complete\AuditSystem\obj\Debug\AuditSystem.MainForm.resources
+E:\VS2013\AuditSystem db complete\AuditSystem\obj\Debug\AuditSystem.Properties.Resources.resources
+E:\VS2013\AuditSystem db complete\AuditSystem\obj\Debug\AuditSystem.csproj.GenerateResource.Cache
+E:\VS2013\AuditSystem db complete\AuditSystem\obj\Debug\AuditSystem.exe
+E:\VS2013\AuditSystem db complete\AuditSystem\obj\Debug\AuditSystem.pdb
+E:\VS2013\AuditSystem db complete\AuditSystem\obj\Debug\AuditSystem.csprojResolveAssemblyReference.cache
+E:\VS2013\AuditSystem db complete 1122\AuditSystem\bin\Debug\AuditSystem.exe.config
+E:\VS2013\AuditSystem db complete 1122\AuditSystem\obj\Debug\AuditSystem.exe
+E:\VS2013\AuditSystem db complete 1122\AuditSystem\obj\Debug\AuditSystem.pdb
+E:\VS2013\AuditSystem db complete 1122\AuditSystem\obj\Debug\AuditSystem.csprojResolveAssemblyReference.cache
+E:\VS2013\AuditSystem db complete 1122\AuditSystem\obj\Debug\AuditSystem.MainForm.resources
+E:\VS2013\AuditSystem db complete 1122\AuditSystem\obj\Debug\AuditSystem.Properties.Resources.resources
+E:\VS2013\AuditSystem db complete 1122\AuditSystem\obj\Debug\AuditSystem.csproj.GenerateResource.Cache
+E:\VS2013\AuditSystem db complete 1122\AuditSystem\bin\Debug\AuditSystem.exe
+E:\VS2013\AuditSystem db complete 1122\AuditSystem\bin\Debug\AuditSystem.pdb

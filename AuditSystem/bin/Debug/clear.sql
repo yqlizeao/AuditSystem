@@ -1,0 +1,11 @@
+USE rmyh;
+TRUNCATE TABLE alarmeventlog;
+TRUNCATE TABLE alarmeventlog_jkm;
+TRUNCATE TABLE alarmeventlog_jkm_all;
+TRUNCATE TABLE alarmeventlog_jkm_all_falsealarm;
+TRUNCATE TABLE alarmeventlog_jkm_all_result;
+TRUNCATE TABLE alarmeventlog_jkm_all_result_1;
+TRUNCATE TABLE alarmeventlog_jkm_all_result_2;
+TRUNCATE TABLE alarmeventlog_jkm_end;
+TRUNCATE TABLE alarmeventlog_jkm_start;
+TRUNCATE TABLE alarmeventlog0;
